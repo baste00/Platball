@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: platball.tk
+Token: b6e163a8a02766a8afeaadefd8f0bbe2a0bf0ae23bb52f097db978ddc8494130
